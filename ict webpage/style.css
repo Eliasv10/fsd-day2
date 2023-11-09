@@ -1,0 +1,27 @@
+body{
+    background-image: url(./imagessss/IMG_5078.JPG);
+    background-size: cover;
+}
+header{
+    background-color: azure;
+}
+#logo{
+    margin-top: 10px;
+    margin-left: 5%;
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color:aqua;
+    border: 2px solid red ;
+}
+.navigation a:hover {
+    background-color: tomato;
+    color: black;
+}
